@@ -4,7 +4,7 @@ import './myStyles.css'
 function StyleSheet(props) {
     let className = props.primary ? 'primary':''
     
-    return (
+    returcomcomn (
         <div>
             <h1 className={`${className} font-xl`}>
                 Pimples go away!!
